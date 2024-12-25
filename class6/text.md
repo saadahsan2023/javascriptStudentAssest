@@ -7,9 +7,8 @@ _In JavaScript, we have different types of loops:_
 1)for loop
 2)while loop
 3)do-while loop
-
-<!-- 4)for...in loop
-5)for...of loop -->
+4)for...in loop
+5)for...of loop
 
 _Step 1: What is a Loop ?_
 A loop repeats a block of code as long as a specified condition is true.
