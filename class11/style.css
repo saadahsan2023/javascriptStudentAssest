@@ -1,0 +1,36 @@
+.container {
+
+    width: 550px;
+    height: 200px;
+    background-color: beige;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#orange {
+    background-color: orange;
+}
