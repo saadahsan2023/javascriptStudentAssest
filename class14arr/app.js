@@ -2,7 +2,7 @@
 // Array is a way to store multiple values in a single variable
 
 // let students = []
-// let arr = new Array(1,2,3,4,5)
+// let arr = new Array(1,2,3,4,5)c;
 // console.log(students);
 
 // let arr = [[2, 3], [4, 3], [[2, 4]]];
